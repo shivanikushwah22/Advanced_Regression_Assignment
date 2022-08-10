@@ -1,5 +1,5 @@
 # Advanced_Regression_Assignment
-A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free
+ Surprise Housing a US-Based housing company purchases houses at a price below their actual values and flip them on at a higher price.
 
 ## General Information
 - **What is the background of your project?**
